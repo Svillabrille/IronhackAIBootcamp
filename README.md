@@ -1,7 +1,7 @@
 # IronhackAIBootcamp
 Ironhack AI Bootcamp
 
-En este repositorio está la descripción y explicación del modelo cats and dogs de Kaggle (https://www.kaggle.com/code/juanluisrosa/dogs-and-cats-classifications-using-cnn/notebook).
+En este repositorio está la descripción y explicación, con mis propias palabras, del modelo cats and dogs de Kaggle (https://www.kaggle.com/code/juanluisrosa/dogs-and-cats-classifications-using-cnn/notebook).
 
 1. En la primera iteración se importan todas las librerias de Python necesarias para el cálculo matemático, redes neuronales artificiales (Keras) y machine learning (TensorFlow), además de diferentes capas para las librerías que hemos mencionado.
 Para comprobar que ha ido bien se hace un print que nos devuelve los archivos del directorio que hemos dado de alta.
